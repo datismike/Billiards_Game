@@ -1,0 +1,14 @@
+#include "ball.h"
+
+#pragma once
+
+#define HOLE_COUNT 6
+#define HOLE_BRUSH_COLOR 0x00000000
+#define HOLE_PEN_COLOR 0x00000000
+#define HOLE_RADIUS 12
+#define HOLE_DIAMETER (2 * HOLE_RADIUS)
+
+PCOORDINATES holes[HOLE_COUNT];
+
+PCOORDINATES newHole(COORDINATES);
+void freeHole(PCOORDINATES);

@@ -1,0 +1,47 @@
+﻿  ball.c
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(44,9): warning C4033: "move" должен возвращать значение
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(67,56): warning C4244: функция: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(69,10): warning C4033: "move" должен возвращать значение
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(80,11): warning C4033: "hit" должен возвращать значение
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(83,9): warning C4033: "hit" должен возвращать значение
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(113,109): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(114,72): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(125,110): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(126,73): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(142,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(144,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(146,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(182,50): warning C4244: функция: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(186,38): warning C4244: функция: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(200,75): warning C4244: функция: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(204,87): warning C4244: функция: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(88,1): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(100,1): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(112,1): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(124,1): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(172,1): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(173,1): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(236,1): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(249,14): warning C4047: return: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(262,16): warning C4047: return: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(270,9): warning C4033: "removeBall" должен возвращать значение
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(302,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(304,15): warning C4047: return: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(294,1): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(295,1): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(318,22): warning C4047: =: "void (__cdecl *)(BALL *,float,COORDINATES)" отличается по уровням косвенного обращения от "void *(__cdecl *)(PBALL,float,COORDINATES)"
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(319,20): warning C4047: =: "void (__cdecl *)(BALL *)" отличается по уровням косвенного обращения от "void *(__cdecl *)(PBALL)"
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(320,20): warning C4047: =: "void (__cdecl *)(BALL *)" отличается по уровням косвенного обращения от "void *(__cdecl *)(PBALL)"
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(329,47): warning C4047: =: "int (__cdecl *)(PBALL)" отличается по уровням косвенного обращения от "int *(__cdecl *)(PBALL)"
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(330,59): warning C4047: =: "void (__cdecl *)(PBALL,COORDINATES)" отличается по уровням косвенного обращения от "void *(__cdecl *)(PBALL,COORDINATES)"
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(331,55): warning C4047: =: "int (__cdecl *)(PBALLNODE,PBALL)" отличается по уровням косвенного обращения от "int *(__cdecl *)(PBALLNODE,PBALL)"
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(332,61): warning C4047: =: "void (__cdecl *)(PBALLNODE,PBALL)" отличается по уровням косвенного обращения от "void *(__cdecl *)(PBALLNODE,PBALL)"
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(333,61): warning C4047: =: "int (__cdecl *)(PBALL)" отличается по уровням косвенного обращения от "int *(__cdecl *)(PBALL)"
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(32): warning C4716: start: должна возвращать значение
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(39): warning C4716: stop: должна возвращать значение
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(71): warning C4716: move: должна возвращать значение
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(214): warning C4716: hit: должна возвращать значение
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(240): warning C4716: setVector: должна возвращать значение
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(288): warning C4716: removeBall: должна возвращать значение
+C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Billiards\ball.c(265): warning C4715: addBall: значение возвращается не при всех путях выполнения
+  Billiards.vcxproj -> C:\Users\micha\Desktop\Учеба\3-й курс\5-й семестр\Курсовой проект\Billiards\Debug\Billiards.exe
