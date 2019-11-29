@@ -1,2 +1,2 @@
-# billiards
+# Billiards
 Billiards game
